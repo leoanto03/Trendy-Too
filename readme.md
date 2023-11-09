@@ -9,3 +9,4 @@ TrendyToo  is a dynamic e-commerce platform poised to revolutionize the online s
 - Content Creation: Develop engaging product descriptions and high-quality visuals to showcase merchandise effectively.
 - Testing: Ensure a seamless user experience through thorough testing, building trust with customers before lunch
 - Marketing: Implement a robust digital marketing strategy to drive traffic and boost sales for TrendyToo
+jh
