@@ -66,7 +66,7 @@ Secure the content of post APIs by employing encryption and authentication measu
 
 The objective is to elevate the TrendyToo website's functionality by integrating APIs into the frontend. This involves connecting APIs to the server's base URL, designing specific calls for each webpage element, and implementing robust error handling for reliable performance. The emphasis is on rendering API outputs dynamically across low-level components using props drilling and context. Additionally, a crucial aspect involves securing post API content through encryption and authentication measures to safeguard user data. The task aims to provide hands-on experience in building a sophisticated UI, mastering variable passing methods, and handling diverse API interactions in the context of an e-commerce platform.
 
-## Task 4
+## Task 5
 ## Step-wise Description
 
 - AWS Backend Setup:
